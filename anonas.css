@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+}
+
+.pfp{
+    display: grid;
+    place-items: center;
+}
+
+.name{
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+}
+
+.idrive{
+    display: grid;
+    place-items: 50%;
+}
+
+.fblogo{
+    display: grid;
+    place-items: center;
+}
